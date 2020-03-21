@@ -1,7 +1,5 @@
 ## grpc-demo
 
-### 构建
-本工程为标准web工程，推荐使用 yarn 来操作：
 
 # 1. 构建工程：
 ```shell script
